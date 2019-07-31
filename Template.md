@@ -7,7 +7,7 @@
 
 ## 影响范围
 
-- x.x.x - x.x.x
+x.x.x - x.x.x
 
 ## POC|EXP
 
